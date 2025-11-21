@@ -28,6 +28,6 @@ Auto-generates threat-hunting queries for:
 ✔ Microsoft Defender (KQL)  
 ✔ CrowdStrike (Raptor)  
 ✔ Uptycs (SQL)  
-Auto-generates Sigma rules using Google Gemini  
+Auto-generates Sigma rules using OLlama LLM 
 Translates Sigma rules into detection queries  
 Converts output into downloadable files  
