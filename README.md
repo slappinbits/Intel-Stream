@@ -4,8 +4,7 @@ IOC Extraction & Automated Threat Enrichment Pipeline
 
 Built with n8n, Python, VirusTotal, Google Gemini, and Sigma-to-KQL/Raptor/Uptycs translation
 
-<img width="1024" height="430" alt="image" src="https://github.com/user-attachments/assets/bdb05b4a-5e25-4dcb-974c-70086fa47696" />
-
+<img width="1611" height="743" alt="image" src="https://github.com/user-attachments/assets/74babb0a-63be-45d1-8e62-d4377251a38d" />
 
 🔎 Overview
 This project is an end-to-end automated threat-intel and detection content generation pipeline, designed to take raw unstructured threat reports, extract Indicators of Compromise (IOCs), enrich them with VirusTotal, and automatically generate:
